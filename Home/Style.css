@@ -107,6 +107,7 @@ li a:hover {
 }
 .total{
 background-color: white;
+font-family: monospace;
 }
 
 
@@ -185,7 +186,7 @@ float:right;
 }
 .liam {
 padding-left: 30px;
-border-radius: 50%;
+border-radius: 8px;
 }
 
 
@@ -193,4 +194,8 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+.title {
+  padding-left: 100px;
+  font-family: monospace;
 }
