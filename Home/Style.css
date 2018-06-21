@@ -107,7 +107,7 @@ li a:hover {
 }
 .total{
 background-color: white;
-font-family: monospace;
+font-family: serif;
 }
 
 
@@ -196,6 +196,6 @@ img {
     margin-right: auto;
 }
 .title {
-  padding-left: 100px;
-  font-family: monospace;
+  padding-left: 75px;
+  font-family: serif;
 }
