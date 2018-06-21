@@ -23,6 +23,16 @@
   align-items:stretch;
 
 }
+
+.listgrid{
+  display:grid;
+  grid-template-columns:1fr 1fr 1fr 1fr;
+  grid-auto-rows:minmax(100px, auto);
+  grid-gap:1em;
+  justify-items:stretch;
+  align-items:stretch;
+
+}
 .nested > div{
   background:white;
   padding:1em;
