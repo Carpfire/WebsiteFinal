@@ -90,10 +90,8 @@ ul {
   border-radius: 25px;
 }
 ol {
-  list-style-type: circle;
-  margin: 0;
+  margin: 25px;
   padding: 0;
-  overflow: hidden;
   background-color: white;
   border-radius: 25px;
 }
