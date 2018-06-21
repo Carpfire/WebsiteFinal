@@ -89,7 +89,14 @@ ul {
   background-color: White;
   border-radius: 25px;
 }
-
+ol {
+  list-style-type: circle;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+  border-radius: 25px;
+}
 li {
   float: left;
 }
