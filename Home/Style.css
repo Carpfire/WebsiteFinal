@@ -16,7 +16,7 @@
 }
 .nested{
   display:grid;
-  grid-template-columns:1fr 1fr 1fr 1fr;
+  grid-template-columns:1fr 1fr;
   grid-auto-rows:minmax(100px, auto);
   grid-gap:1em;
   justify-items:stretch;
@@ -98,7 +98,7 @@ font-family: 'PT Sans', serif;
 font-family: 'Rokkitt', serif;
 >>>>>>> 7752ba44a8de94fce44f649c8a544623e0eda202
 grid-column:1/6;
-grid-row:3/6;
+grid-row: 3/8;
 border-radius: 25px;
 background-color: White;
 }
